@@ -9,9 +9,7 @@ declare module 'styled-components' {
         TERTIARY: string;
       };
       LAYOUT: {
-        HEADER: string;
-        SIDEBAR: string;
-        CLEAR_BUTTON: string;
+        BUTTON: string;
       };
       BACKGROUND: {
         DEFAULT: string;

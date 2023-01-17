@@ -1,14 +1,12 @@
 export default {
   palette: {
     GENERAL: {
-      PRIMARY: '#004EA8',
-      SECONDARY: '#FEDA00',
-      TERTIARY: '#232C64',
+      PRIMARY: '#000318',
+      SECONDARY: '#233654',
+      TERTIARY: '#14042B',
     },
     LAYOUT: {
-      HEADER: '#27262E',
-      SIDEBAR: '#333333',
-      CLEAR_BUTTON: '#4183C4',
+      BUTTON: '#C6B8E9',
     },
     BACKGROUND: {
       DEFAULT: '#F8F9FB',

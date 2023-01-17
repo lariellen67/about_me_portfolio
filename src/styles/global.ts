@@ -17,10 +17,6 @@ export const GlobalStyle = createGlobalStyle`
     height: 100vh;
   }
 
-  html {
-    overflow: hidden
-  }
-
   body {
     background-color: ${({ theme }) => theme.palette.BACKGROUND.DEFAULT};
     box-sizing: border-box;
